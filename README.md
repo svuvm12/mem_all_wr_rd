@@ -1,0 +1,1 @@
+# mem_all_wr_rd
